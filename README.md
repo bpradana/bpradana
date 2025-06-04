@@ -1,13 +1,40 @@
-# Hey, I'm Bintang
+# Bintang Pradana Erlangga Putra
 
-## Who the Hell Am I?
-I'm not your average code monkey. I write code for the thrill of breaking things, learning from the chaos, and, frankly, laughing at the absurdity of it all.
+## Profile
 
-## What Do I Do?
-I build, break, and rebuild code—sometimes with a side of AI experiments that may or may not work (but hey, that's half the fun). I'm here to challenge the status quo, push boundaries, and toss aside any notion of perfection that mainstream tech drivel forces on us.
+Engineer at Privy, based in Yogyakarta. Specializes in Python, computer vision, and deep learning. Active in open-source development with a focus on practical tools and automation.
 
-## Random Bullshit
-Got a wild idea or just some off-the-cuff ramblings? I'm all in. Whether it's debating the latest tech trends or just venting about life's random absurdities, I'm not here to sugarcoat anything. Expect raw, unfiltered, and sometimes downright rude musings. If you're easily offended, tough luck—this space isn't for the delicate.
+- GitHub: [bpradana](https://github.com/bpradana)
+- Website: [bpradana.github.io](https://bpradana.github.io)
+- ORCID: [0000-0002-5406-067X](https://orcid.org/0000-0002-5406-067X)
+- Twitter: [@Bintang_Pradana](https://twitter.com/Bintang_Pradana)
+- LinkedIn: [in/bpradana](https://www.linkedin.com/in/bpradana)
 
-## Hit Me Up
-Think you can dish out some honest, unfiltered banter? Or got a crazy idea that deserves a rant? Drop me a line. I won't hold your hand, but I'll give you a piece of my mind if you earn it. Welcome to the madhouse.
+## Selected Projects
+
+### Zephyr
+
+RTSP video streaming library using FFmpeg and MediaMTX. Provides `Stream` and `Client` classes for sending and receiving video frames.
+
+- Language: Python
+- License: MIT
+- Repository: [zephyr](https://github.com/bpradana/zephyr)
+
+### DuctTape
+
+Tool for packaging, encrypting, and obfuscating Python scripts. Forked from `stickytape` with added RSA encryption support.
+
+- Language: Python
+- License: BSD-2-Clause
+- Repository: [ducttape](https://github.com/bpradana/ducttape)
+
+### SmolChain
+
+Lightweight alternative to LangChain for building LLM pipelines. Emphasizes simplicity and ease of modification.
+
+- Language: Python
+- Repository: [smolchain](https://github.com/bpradana/smolchain)
+
+## Summary
+
+Focuses on building practical tools in Python for tasks such as video streaming, script obfuscation, and automation. Contributions reflect a hands-on approach to problem-solving in software development.
